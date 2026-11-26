@@ -1,0 +1,2 @@
+plugins { id("com.android.application") }
+android { namespace = "com.bechir.system"; compileSdk = 35; defaultConfig { applicationId = "com.bechir.system"; minSdk = 26; targetSdk = 34; versionCode = 1; versionName = "1.0" } }
